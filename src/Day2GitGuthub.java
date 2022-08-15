@@ -12,8 +12,11 @@ public class Day2GitGuthub {
          git remote add origin (repository adresimiz)
          git push - u origin master
      Not: bu iki komutu tek seferde kullandigiktan sonra ikinci kommitlerim icin sadece git puh kullanirim
+     Not git log --online --> commitlerimdeki yani versionlarimdaki durumu gosterir.
      */
     public static void main(String[] args) {
+        System.out.println("Github i da ogrendik");
+        System.out.println("Github i da ogrenebildik");
         System.out.println("Github i da ogrendik");
     }
 }
