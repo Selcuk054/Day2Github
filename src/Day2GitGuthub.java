@@ -13,4 +13,7 @@ public class Day2GitGuthub {
          git push - u origin master
      Not: bu iki komutu tek seferde kullandigiktan sonra ikinci kommitlerim icin sadece git puh kullanirim
      */
+    public static void main(String[] args) {
+        System.out.println("Github i da ogrendik");
+    }
 }
